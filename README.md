@@ -1,7 +1,7 @@
 ![MasterHead](https://yourserveradmin.com/wp-content/uploads/2020/04/react.jpg)
 <h1 align="center">Hi 👋, I'm Nidhin Rajendran</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"/>
+<img align="right" alt="Coding" width="400" src="https://s3-alpha.figma.com/hub/file/2942566861/7e3aaade-4be8-47a8-aa6c-fe6f0c220316-cover.png"/>
 
 - 🌱 I’m currently learning **ME(A)RN full stack development**
 
