@@ -1,4 +1,4 @@
-![MasterHead](https://s3-alpha.figma.com/hub/file/2942566861/7e3aaade-4be8-47a8-aa6c-fe6f0c220316-cover.png)
+![MasterHead]("https://s3-alpha.figma.com/hub/file/2942566861/7e3aaade-4be8-47a8-aa6c-fe6f0c220316-cover.png")
 <h1 align="center">Hi 👋, I'm Nidhin Rajendran</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
