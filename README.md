@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **nidhinrajendran19999@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://nidhinrajendran.github.io/NidhinPortfolio/](https://nidhinrajendran.github.io/NidhinPortfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_nidhin_rajendran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nidhin_rajendran_" height="30" width="40" /></a>
