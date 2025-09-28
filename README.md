@@ -1,8 +1,8 @@
 ![MasterHead](https://thaka.bing.com/th/id/OIP.i6FcWAHOH2-yiacNEHDaxgHaE8?rs=1&pid=ImgDetMain)
 <h1 align="center">Hi 👋, I'm Nidhin Rajendran</h1>
-<h3 align="center">A passionate UI/UX Designer from India</h3>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 
-- 🌱 I’m currently working as **Product Designer**
+- 🌱 I’m currently working as **React Developer**
 
 - 💬 Ask me about **Designing**
 
